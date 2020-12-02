@@ -1,4 +1,4 @@
-### Hi there 👋
+### Just Code It!
 
 <!--
 **n0tavaliduser/n0tavaliduser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
