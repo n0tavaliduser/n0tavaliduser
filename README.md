@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h4>Mahasiswa Universitas Dian Nuswantoro</h4>
-Follow instagram saya @n0tvaliduser
+Follow instagram saya <a href="https://www.instagram.com/n0tavaliduser/">@n0tvaliduser</a>
