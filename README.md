@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Follow my instagram @n0tvaliduser
+<h4>Mahasiswa Universitas Dian Nuswantoro</h4>
+Follow instagram saya @n0tvaliduser
