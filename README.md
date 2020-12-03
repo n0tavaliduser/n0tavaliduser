@@ -1,5 +1,5 @@
- <p>
-  <img width="250" align='left' src="https://ibb.co/2ZsdfbS">
+<p>
+  <a href="https://ibb.co/2ZsdfbS"><img width="150" align='right' src="https://ibb.co/2ZsdfbS"></a>
 </p>
 <p>
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
