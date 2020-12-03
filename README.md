@@ -17,7 +17,7 @@
 
 Hello bro 👋,
 
-Saya sedang fokus pada coding seputar python terutama Python dan beberapa mungkin sedikit tentang JavaScript dan CSS.  Saya akan menuliskan apa saja yang saya ketahui dan akan berusaha membagikannya kepada siapapun.  Anda bisa melihat semua repository yang telah saya buat.  Jika kamu menemukan sesuatu yang bagus dalam github ini, bisa kasih tip di [tip](https://www.buymeacoffee.com/), if you want to contact me [@_waylonwalker](https://www.instagram.com/n0tavaliduser/)
+Saya sedang fokus pada coding seputar python terutama Python dan beberapa mungkin sedikit tentang JavaScript dan CSS.  Saya akan menuliskan apa saja yang saya ketahui dan akan berusaha membagikannya kepada siapapun.  Anda bisa melihat semua repository yang telah saya buat.  Jika kamu menemukan sesuatu yang bagus dalam github ini, bisa kasih tip di [tip](https://www.buymeacoffee.com/), if you want to contact me [@n0tavaliduser](https://www.instagram.com/n0tavaliduser/)
 
 
   ---
