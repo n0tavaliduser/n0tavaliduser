@@ -1,5 +1,3 @@
-# [![notavaliduser header](https://ibb.co/2ZsdfbS)](https://ibb.co/2ZsdfbS)
-
 <p>
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
 </p>
@@ -26,9 +24,9 @@ Saya sedang fokus pada coding seputar python terutama Python dan beberapa mungki
   <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
  
-### Boy Scout Rule
+### n0tavaliduser Algorithm
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+Saya sangat menyukai open sources.  Saya bukan tipe yang sering melakukan update pada library yang saya buat, tapi saya lebih senang membuat library baru.  Saya kadang berpartisipasi dalam kesulitan orang dalam forum dalam permasalahan komputasi.
 
  ---
 
@@ -57,39 +55,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
 ---
 
 ### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
-
-
-<!--
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
-
-<a href='https://twitter.com/natterstefan'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/natterstefan'>
-    Stefan Natter 🇦🇹👋🏻
-</a>
-
-I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️ | 📧 https://t.co/Jpwh9TFgNx (🐈🐈 🤵👰🏻 🇦🇹)
-
-<h2></h2><a href='https://twitter.com/commanderquest'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1243185628864528384/eFnPWZyC_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/commanderquest'>
-    Commander Quest
-</a>
-
-On a mission to the furthest frontiers of tech and talent. 
-Follow my adventures at Club Freelance's Mission Control Center 👉 https://t.co/D4k36nU2at
-
-<h2></h2><a href='https://twitter.com/benjaminwardcom'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1283469746055385088/sr9ZExwG_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/benjaminwardcom'>
-    Benjamin Ward
-</a>
 
 software engineer, dev coach, Star Wars fanatic, learning enthusiast, host of the Download Knowledge Podcast https://t.co/V2bIR93cQW
 
