@@ -1,16 +1,4 @@
-<html>
-    <head>
-        <style>
-            #wrapper{
-                background-color: aqua;
-                max-width: 904;
-                height: 187.383px;
-            }
-        </style>
-    </head>
-    <body>
-        <div id="wrapper">
-            <div class="images"></div>
-        </div>
-    <body>
-</html>
+<body>
+    <h2 style="font-family: 'Courier New', Courier, monospace;">Universitas Dian Nuswantoro</h2>
+    <h4 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">n0tavaliduser</h4>
+<body>
