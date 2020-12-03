@@ -1,18 +1,16 @@
-### Just Code It!
-
-<!--
-**n0tavaliduser/n0tavaliduser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h4>Mahasiswa Universitas Dian Nuswantoro</h4>
-Follow instagram saya <a href="https://www.instagram.com/n0tavaliduser/">@n0tvaliduser</a>
+<html>
+    <head>
+        <style>
+            #wrapper{
+                background-color: aqua;
+                max-width: 904;
+                height: 187.383px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="wrapper">
+            <div class="images"></div>
+        </div>
+    <body>
+</html>
