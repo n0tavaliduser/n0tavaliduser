@@ -33,5 +33,5 @@ Saya sangat menyukai open source, bahasa pemrograman python dan jaringan interne
   <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://github.com/n0tavaliduser/Images/blob/main/README%20PROFIL/Untitled(5).jpg"></a>
 </p>
 
-<p>
+<br/>
 Saya akan menulis codingan yang mungkin saya pahami, dan yang saya pelajari. Hari ke hari saya terbiasa menulis code **data** menggunakan **python** dan **javascript**. 
