@@ -30,7 +30,7 @@ Saya sangat menyukai open source, bahasa pemrograman python dan jaringan interne
  ---
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://github.com/n0tavaliduser/Images/blob/main/README%20PROFIL/Untitled(5).jpg"></a>
+  <img width="300" align='right' src="https://github.com/n0tavaliduser/Images/blob/main/README%20PROFIL/Untitled(5).jpg">
 </p>
 
 <br/>
