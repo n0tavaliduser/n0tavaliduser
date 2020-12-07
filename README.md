@@ -34,4 +34,4 @@ Saya sangat menyukai open source, bahasa pemrograman python dan jaringan interne
 </p>
 
 <br/>
-Saya akan menulis codingan yang mungkin saya pahami, dan yang saya pelajari. Hari ke hari saya terbiasa menulis code **data** menggunakan **python** dan **javascript**. 
+Saya akan menulis codingan yang mungkin saya pahami, dan yang saya pelajari. Hari ke hari saya terbiasa menulis code <b>data</b> menggunakan <b>python</b> dan <b>javascript</b>. 
