@@ -1,7 +1,7 @@
 # [![n0tavaliduser Header](https://github.com/n0tavaliduser/Images/blob/main/README%20PROFIL/Untitled-1.png)](https://github.com/n0tavaliduser)
 
 <p>
-  <img width="150" align='right' src="https://github.com/n0tavaliduser/Images/blob/main/README%20PROFIL/Untitled(2).jpg">
+  <img width="150" align='right' src="https://github.com/n0tavaliduser/Images/blob/main/README%20PROFIL/Untitled-2.png">
 </p>
 
 <p align='center'>
