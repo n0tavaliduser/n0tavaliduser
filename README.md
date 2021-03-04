@@ -13,9 +13,9 @@
 
 
 
-Hello bro 👋,
+Welcome bro 👋,
 
-Saya sedang fokus pada coding seputar Python dan beberapa mungkin sedikit tentang JavaScript dan CSS.  Saya akan menuliskan apa saja yang saya ketahui dan akan berusaha membagikannya kepada siapapun.  Anda bisa melihat semua <a href="https://github.com/n0tavaliduser?tab=repositories">repository</a> yang telah saya buat.  Semoga kamu bisa menemukan sesuatu yang menarik di github ini, Jika ada yang ingin bertanya langsung bisa dm [@n0tavaliduser](https://www.instagram.com/n0tavaliduser/), Cheers!
+Saya memulai semuanya dari sebuah text editor mencoba semua cara menjadikan segala yang diketik menjadi sebuah program sederhana. Disini tempat saya membagikan apa yang telah saya buat dengan text editor. Anda bisa melihat semua <a href="https://github.com/n0tavaliduser?tab=repositories">repository</a> yang telah saya buat.  Semoga anda bisa menemukan sesuatu yang berguna di github ini, Cheers!
 
  <p>
   <img width="250" align='left' src="https://github.com/n0tavaliduser/Images/blob/main/README%20PROFIL/Untitled-3.png">
@@ -23,7 +23,7 @@ Saya sedang fokus pada coding seputar Python dan beberapa mungkin sedikit tentan
  
 ### n0tavaliduser
 
-Saya sangat menyukai open source, bahasa pemrograman python dan jaringan internet. 
+Saya sangat menyukai open source, bahasa pemrograman dan jaringan internet. 
 
  ---
 
@@ -32,4 +32,4 @@ Saya sangat menyukai open source, bahasa pemrograman python dan jaringan interne
 </p>
 
 <br/>
-Saya akan menulis codingan yang mungkin saya pahami, dan yang saya pelajari. Hari ke hari saya terbiasa menulis code <b>data</b> menggunakan <b>python</b> dan <b>javascript</b>. 
+Saat ini saya sedang fokus dengan pemrograman yang diajarkan kampus dan beberapa yang saya pelajari secara otodidak. Hari ke hari saya terbiasa menulis code <b>data</b> menggunakan <b>python</b>, java, <b>javascript</b>. 
