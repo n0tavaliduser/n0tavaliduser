@@ -5,9 +5,9 @@
 </p>
 
 <p align='center'>
-<a href="https://twitter.com/n0tavaliduser"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/n0tavaliduser/"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/na-vu-14ab75200/"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/#"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/#"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/#"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 
@@ -21,7 +21,7 @@ Saya memulai semuanya dari sebuah text editor mencoba semua cara menjadikan sega
   <img width="250" align='left' src="https://github.com/n0tavaliduser/Images/blob/main/README%20PROFIL/Untitled-3.png">
 </p>
  
-### n0tavaliduser
+### NAVU
 
 Saya sangat menyukai open source, bahasa pemrograman dan jaringan internet. 
 
