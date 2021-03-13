@@ -4,7 +4,7 @@
   <img width="150" align='right' src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/README%20PROFIL/Untitled-2.png">
 </p>
 
-<p align='center'>
+<p align='left'>
 <!-- <a href="https://twitter.com/#"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/#"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/#"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/linkedin.png?raw=true"></a>
