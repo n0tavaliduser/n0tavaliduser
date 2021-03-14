@@ -19,7 +19,7 @@ Saya memulai semuanya dari sebuah text editor mencoba semua cara menjadikan sega
  <p>
   ## My Skills
 
-  <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275" alt="cheesits456's Top Languages" align="right" width="330">
+  <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=n0tavaliduser&layout=compact&card_width=275" alt="n0tavaliduser Top Languages" align="right" width="330">
   <img width="250" align='left' src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/README%20PROFIL/Untitled-3.png">
 </p>
  
