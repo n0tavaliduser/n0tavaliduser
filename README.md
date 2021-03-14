@@ -24,7 +24,7 @@ Saya memulai semuanya dari sebuah text editor mencoba semua cara menjadikan sega
 ### NAVU
 
 Saya sangat menyukai open source, bahasa pemrograman dan jaringan internet. 
-<br/><br/>
+<br><br>
  ---
 
 <p>
