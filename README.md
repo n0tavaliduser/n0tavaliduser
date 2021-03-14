@@ -11,10 +11,6 @@
 </p>&nbsp;&nbsp; -->
 <a href="http://wa.me/6282278834034"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/wa.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:stevanoputra38@gmail.com?subject=subject&cc=cc@gmail.com"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/gmail.png?raw=true"></a>&nbsp;&nbsp;
-<<<<<<< HEAD
-=======
-
->>>>>>> 6de0115fa2960e93d68a8b9f90b75e6cc96274f8
 
 Welcome bro 👋,
 
