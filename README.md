@@ -25,11 +25,14 @@ Saya memulai semuanya dari sebuah text editor mencoba semua cara menjadikan sega
 
 Saya sangat menyukai open source, bahasa pemrograman dan jaringan internet. 
 
+
+
+
  ---
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=n0tavaliduser&show_icons=true&count_private=true&include_all_commits=true" alt="n0tavaliduser" align="right" />
 </p>
 
-<br/><br><br>
+<br/>
 Saat ini saya sedang fokus dengan pemrograman yang diajarkan kampus dan beberapa yang saya pelajari secara otodidak. Hari ke hari saya terbiasa menulis code <b>data</b> menggunakan <b>python</b>, java, dan <b>javascript</b>. 
