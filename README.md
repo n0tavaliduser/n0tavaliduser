@@ -28,7 +28,7 @@ Saya sangat menyukai open source, bahasa pemrograman dan jaringan internet.
  ---
 
 <p>
-  <img width="300" align='right' src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/README%20PROFIL/Untitled-4.png">
+  <img src="https://github-readme-stats.vercel.app/api?username=n0tavaliduser&show_icons=true&count_private=true&include_all_commits=true" alt="n0tavaliduser" align="right" />
 </p>
 
 <br/><br/><br/>
