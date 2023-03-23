@@ -34,4 +34,4 @@ Saya sangat menyukai open source, bahasa pemrograman dan jaringan internet.
 </p>
 
 <br/><br/><br/><br/>
-Saat ini saya sedang fokus dengan pemrograman yang diajarkan kampus dan beberapa yang saya pelajari secara otodidak. Hari ke hari saya terbiasa menulis code <b>data</b> menggunakan <b>python</b>, java, dan <b>javascript</b>. 
+Saat ini saya sedang fokus dengan roadmap teknologi yang akan saya pelajari. Hari ke hari saya terbiasa menulis code <b>PHP</b>, <b>CSS</b>, dan <b>javascript</b>. 
