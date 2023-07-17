@@ -1,36 +1,21 @@
-# [![n0tavaliduser Header](https://github.com/n0tavaliduser/n0tavaliduser/blob/main/README%20PROFIL/Untitled-1.png)](https://github.com/n0tavaliduser)
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<p>
-  <img width="150" align='right' src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/README%20PROFIL/Untitled-2.png">
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<p align='center'>
-</p>&nbsp;&nbsp;
-<a href="https://www.instagram.com/#"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/#"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/linkedin.png?raw=true">&nbsp;&nbsp;
-<a href="mailto:stevanoputra38@gmail.com?subject=subject&cc=cc@gmail.com"><img height="30" src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/icon/gmail.png?raw=true"></a>&nbsp;&nbsp;
-
-Welcome bro 👋,
-
-Saya memulai semuanya dari sebuah text editor mencoba semua cara menjadikan segala yang diketik menjadi sebuah program sederhana. Disini tempat saya membagikan apa yang telah saya buat dengan text editor. Anda bisa melihat semua <a href="https://github.com/n0tavaliduser?tab=repositories">repository</a> yang telah saya buat.  Semoga anda bisa menemukan sesuatu yang berguna di github ini, Cheers!
-
- <p>
-  <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=n0tavaliduser&layout=compact&card_width=275" alt="n0tavaliduser Top Languages" align="left" width="300">
-  <!-- <img width="250" align='left' src="https://github.com/n0tavaliduser/n0tavaliduser/blob/main/README%20PROFIL/Untitled-3.png"> -->
-</p>
- 
-### NAVU
-
-Saya sangat menyukai open source, bahasa pemrograman dan jaringan internet. 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
-
- ---
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=n0tavaliduser&show_icons=true&count_private=true&include_all_commits=true" alt="n0tavaliduser" align="right" />
-</p>
-
-<br/><br/><br/><br/>
-Saat ini saya sedang fokus dengan roadmap teknologi yang akan saya pelajari. Hari ke hari saya terbiasa menulis code <b>PHP</b>, <b>CSS</b>, dan <b>javascript</b>. 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
