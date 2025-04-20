@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 <details open>
-  <summary><b>🔤 Bahasa Pemrograman</b></summary>
+  <summary><b>🔤 Programming Language</b></summary>
   <br>
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
